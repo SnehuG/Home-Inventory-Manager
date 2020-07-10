@@ -1,0 +1,32 @@
+3
+Bed
+Bedroom
+102
+true
+800
+07/02/2020
+Vijay Stores
+
+C:\Users\Snehal\Desktop\HomeJava\HomeJava Projects\Home Inventory\src\Inventory Photos\sofa.jpg
+Coach
+Hall
+101
+true
+500
+07/02/2020
+Vijay Stores
+This is soft and Comfortable Coach
+C:\Users\Snehal\Desktop\HomeJava\HomeJava Projects\Home Inventory\src\Inventory Photos\coach.jpg
+Flower Vessel
+Hall
+108
+false
+100
+07/08/2020
+Shakti Store
+
+C:\Users\Snehal\Desktop\HomeJava\HomeJava Projects\Home Inventory\src\Inventory Photos\vessel.jpg
+3
+Hall
+Bedroom
+null
